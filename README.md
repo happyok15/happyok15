@@ -12,9 +12,13 @@ I'm a passionate Full-Stack AI & Crypto Trading Bot Developer 🚀, just startin
 
 ### 💻 Tech Stack:
 🔹 **Frontend**: React, Next.js, Tailwind CSS
+
 🔹 **Backend**: Node.js, FastAPI, .NET
+
 🔹 **AI Tools**: OpenAI, LangChain, Pinecone
+
 🔹 **Blockchain**: Web3.js, Solana, Rust
+
 🔹 **Databases**: PostgreSQL, MongoDB, Firebase
 
 I'm always open to collaborations, new challenges, and learning from the community! Let’s connect and build something amazing. 🚀
